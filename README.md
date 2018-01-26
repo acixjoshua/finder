@@ -1,5 +1,5 @@
 # finder
-The Finder Project
+The WHMCS Finder Project
 - Search for properties
 - Search for providers
 - allow booking requests to the company (send email to company if user is interested in booking)
