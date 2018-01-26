@@ -7,9 +7,9 @@ The Finder Goal
 - search by australian postcode/town (with parameters such as distance from existing postcode)
 
 Technology
-Illuminate Database component (https://github.com/illuminate/database)
-Smarty for Templating (https://github.com/smarty-php/smarty)
-PHP v7.4
+- Illuminate Database component (https://github.com/illuminate/database) 
+- Smarty for Templating (https://github.com/smarty-php/smarty)
+- PHP v7.4
 
 Thinking Forward
 - Tight intergration for companies to update profile for whmcs.
