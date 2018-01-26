@@ -6,13 +6,8 @@ The WHMCS Finder Project
 - search by australian postcode/town (with parameters such as distance from existing postcode)
 
 Technology
-- s3 for image storage
-- Core PHP v7.4
-
-Thinking Forward (Future)
-- Tight intergration for companies to update profile for whmcs.
-- Allow companies to highlight/sponsor listings via whmcs.
-- Implement Elastic Search
+- WHMCS 7.4.2
+- s3 Bucket for Image Storage
 
 Database Layout
 
@@ -40,12 +35,18 @@ Properties (tbproperties)
 - Beds Vacant
 - Last Updated
 
-How are providers added 
+How are providers added/edit 
 - WHMCS Admin Module
 
 How are properties added
-- WHMCS client area module 
-Registered clients can add/edit properties if they are are allowed too (set in whmcs admin module)
+- WHMCS Admin Module
+- WHMCS Client Area (client(s) can be selected by admin module to manage property listings.)
+
+Future Additions
+- Allow providers to highlight/sponsor listings via whmcs order form.
+- Implement Elastic Search (TBC)
+
+
 
 
 
