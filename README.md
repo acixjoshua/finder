@@ -35,6 +35,9 @@ Properties (tbproperties)
 - Website
 - Email
 - Room Types (seperated by comma) (eg Single, Single (Ensuite), Double, Double (Ensuite), Shared)
+- Property Description 
+- lat
+- lng 
 - Beds Vacant
 - Last Updated
 
