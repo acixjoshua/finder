@@ -57,7 +57,7 @@ https://sampledomain.com/finder/suburb?distance=20 <br />
 suburb is the name of the town/suburb  <br /> 
 distance can be customised but default is 20 
 
-https://sampledomain.com/finder/<suburb>?distance=20&roomtype=roomtype <br />
+https://sampledomain.com/finder/suburb?distance=20&roomtype=roomtype <br />
 Based on the properties room types 
 
 Clicking on Property Listings <br />
