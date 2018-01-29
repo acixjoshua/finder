@@ -7,7 +7,8 @@ The WHMCS Finder Project
 
 # Technology
 - WHMCS 7.4.2
-- s3 Bucket for Image Storage
+- Google Maps API
+- AWS s3
 
 # Database Layout
 
