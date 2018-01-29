@@ -52,21 +52,21 @@ Property Images (tbpropertyimg)
 
 # SEO Friendly URL's
 
-Searching for properties
-https://sampledomain.com/finder/<suburb>?distance=20
-<suburb> is the name of the town/suburb 
-distance can be customised but default is 20
+Searching for properties <br />
+https://sampledomain.com/finder/<suburb>?distance=20 <br />
+<suburb> is the name of the town/suburb  <br /> 
+distance can be customised but default is 20 
 
-https://sampledomain.com/finder/<suburb>?distance=20&roomtype=<roomtype>
-Based on the properties room types
+https://sampledomain.com/finder/<suburb>?distance=20&roomtype=<roomtype> <br />
+Based on the properties room types 
 
-Clicking on Property Listings
-https://sampledomain.com/finder/facilities/<facility-name>
+Clicking on Property Listings <br />
+https://sampledomain.com/finder/facilities/<facility-name> <br />
 <facility-name> is the name of the property
 
-Clicking on a Provider (from property listenings or on the search page)
-https://sampledomain.com/finder/providers/<name-of-provider>
-<name-of-provider> is the provider name
+Clicking on a Provider (from property listenings or on the search page) <br />
+https://sampledomain.com/finder/providers/<name-of-provider> <br />
+<name-of-provider> is the provider name 
 
 
 # Modules Required
