@@ -50,6 +50,25 @@ Property Images (tbpropertyimg)
 - Property Image 4 (uploaded to S3 bucket) 
 - Property Image 5 (uploaded to S3 bucket) 
 
+# SEO Friendly URL's
+
+Searching for properties
+https://sampledomain.com/finder/<suburb>?distance=20
+<suburb> is the name of the town/suburb 
+distance can be customised but default is 20
+
+https://sampledomain.com/finder/<suburb>?distance=20&roomtype=<roomtype>
+Based on the properties room types
+
+Clicking on Property Listings
+https://sampledomain.com/finder/facilities/<facility-name>
+<facility-name> is the name of the property
+
+Clicking on a Provider (from property listenings or on the search page)
+https://sampledomain.com/finder/providers/<name-of-provider>
+<name-of-provider> is the provider name
+
+
 # Modules Required
 
 How are providers added/edit 
